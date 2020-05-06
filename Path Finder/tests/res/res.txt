@@ -1,1 +1,0 @@
-do.zh: 57: do.zh: ./pathfinder: Exec format error
